@@ -6,4 +6,4 @@ var createHelloWorld = function(){
 }
 
 const f = createHelloWorld();
-console.log(f("Hello World"))
+console.log(f("Hello World","Second arg"))
